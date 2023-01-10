@@ -1,6 +1,6 @@
 # 0x02. Python - Async Comprehension
 :open_file_folder: Specializations - alx-backend-python 
-:bust_in_silhouette: by elias fiseha, Software Engineer   
+:bust_in_silhouette: by John Damilare, Software Engineer   
 :copyright: **[alx School](https://www.alx.com/)**  
 :bookmark: async comprehension | async generators | python
 
@@ -26,10 +26,10 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 * [x] 2. Run time for four parallel comprehensions
 
 # Software engineer
-## :enter_belu: 
-* **elias fiseha** - [malu17](https://github.com/malu17)
+
+
 
 ## :mega: Acknowledgments
 
 * alx School (providing guidance)
-[Elias fiseha]|[Twitter](https://twitter.com/eliasfiseha1) | [GitHub](https://github.com/malu17).
+
